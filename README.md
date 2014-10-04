@@ -26,6 +26,16 @@ Tree<String> tree = new Tree<String>() create a simple string Tree
 
 Tree<Property> tree = new Tree<Property>() create a tree with a Property as node
 
+Example of tree
+
+/
+--A
+--B
+----B1
+----B2
+------B2-1
+--C
+
 If you have any suggestions please contact me at : johanj.denboer@gmail.com
 
 Regards
