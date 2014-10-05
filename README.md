@@ -20,7 +20,7 @@ Classes :
 - Property
   The Property class can be used as a Node for the Tree
 
-examples of Tree
+Examples of Tree :
 
 Tree \<String> tree = new Tree \<String>() create a simple string Tree
 
