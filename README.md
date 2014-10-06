@@ -26,8 +26,6 @@ Tree \<String> tree = new Tree \<String>() create a simple string Tree
 
 Tree \<Property> tree = new Tree \<Property>() create a tree with a Property as node
 
-If you have any suggestions please contact me
-
 Regards
 
 Johan
